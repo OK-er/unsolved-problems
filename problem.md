@@ -61,3 +61,8 @@
 ```
 
 解释：只有 `[1,3]` 是新鲜子数组。
+
+## 题目来源
+
+- 比赛：牛客周赛 Round 162（IOI 赛制）
+- 链接：https://ac.nowcoder.com/acm/contest/140489

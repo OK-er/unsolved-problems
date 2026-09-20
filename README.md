@@ -12,6 +12,6 @@
 
 ## 题目列表
 
-| 题目 | 题面 | 题解 | AC 代码 |
-|---|---|---|---|
-| 新鲜子数组（Fresh Subarrays） | [problem.md](problem.md) | [solution.md](solution.md) | [main.cpp](main.cpp) |
+| 题目 | 题面 | 题解 | AC 代码 | 来源 |
+|---|---|---|---|---|
+| 新鲜子数组（Fresh Subarrays） | [problem.md](problem.md) | [solution.md](solution.md) | [main.cpp](main.cpp) | [牛客周赛 Round 162](https://ac.nowcoder.com/acm/contest/140489) |

@@ -17,3 +17,4 @@
 |---|---|---|---|---|---|
 | 新鲜子数组（Fresh Subarrays） | `fresh-subarrays/` | [problem.md](fresh-subarrays/problem.md) | [solution.md](fresh-subarrays/solution.md) | [main.cpp](fresh-subarrays/main.cpp) | [牛客周赛 Round 162](https://ac.nowcoder.com/acm/contest/140489) |
 | 删除连通点集（Delete Connected Set） | `delete-to-monochrome/` | [problem.md](delete-to-monochrome/problem.md) | [solution.md](delete-to-monochrome/solution.md) | [main.cpp](delete-to-monochrome/main.cpp) | [牛客周赛 Round 162](https://ac.nowcoder.com/acm/contest/140489) |
+| Falling Concrete | `falling-concrete/` | [problem.md](falling-concrete/problem.md) | [solution.md](falling-concrete/solution.md) | [main.cpp](falling-concrete/main.cpp) | [Codeforces 2266D](https://codeforces.com/contest/2266/problem/D) |

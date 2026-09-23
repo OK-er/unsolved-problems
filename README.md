@@ -21,3 +21,4 @@
 | 删除连通点集（Delete Connected Set） | `delete-to-monochrome/` | [problem.md](delete-to-monochrome/problem.md) | [solution.md](delete-to-monochrome/solution.md) | [main.cpp](delete-to-monochrome/main.cpp) | [牛客周赛 Round 162](https://ac.nowcoder.com/acm/contest/140489) |
 | Falling Concrete | `falling-concrete/` | [problem.md](falling-concrete/problem.md) | [solution.md](falling-concrete/solution.md) | [main.cpp](falling-concrete/main.cpp) | [Codeforces 2266D](https://codeforces.com/contest/2266/problem/D) |
 | Start to the End | `start-to-the-end/` | [problem.md](start-to-the-end/problem.md) | [solution.md](start-to-the-end/solution.md) | [main.cpp](start-to-the-end/main.cpp) | [2026 牛客多校 Day 9](https://ac.nowcoder.com/) |
+| Prime Destruction | `prime-destruction/` | [problem.md](prime-destruction/problem.md) | [solution.md](prime-destruction/solution.md) | [main.cpp](prime-destruction/main.cpp) | Codeforces E |

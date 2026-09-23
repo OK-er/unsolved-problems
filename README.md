@@ -22,3 +22,4 @@
 | Falling Concrete | `falling-concrete/` | [problem.md](falling-concrete/problem.md) | [solution.md](falling-concrete/solution.md) | [main.cpp](falling-concrete/main.cpp) | [Codeforces 2266D](https://codeforces.com/contest/2266/problem/D) |
 | Start to the End | `start-to-the-end/` | [problem.md](start-to-the-end/problem.md) | [solution.md](start-to-the-end/solution.md) | [main.cpp](start-to-the-end/main.cpp) | [2026 牛客多校 Day 9](https://ac.nowcoder.com/) |
 | Prime Destruction | `prime-destruction/` | [problem.md](prime-destruction/problem.md) | [solution.md](prime-destruction/solution.md) | [main.cpp](prime-destruction/main.cpp) | Codeforces E |
+| Equal Shopping | `equal-shopping/` | [problem.md](equal-shopping/problem.md) | [solution.md](equal-shopping/solution.md) | [main.cpp](equal-shopping/main.cpp) | [AtCoder WDC 0163 Beta](https://atcoder.jp/contests/awc0163/tasks/awc0163_d) |

@@ -36,6 +36,7 @@
 | Falling Concrete | `falling-concrete/` | [problem.md](falling-concrete/problem.md) | [solution.md](falling-concrete/solution.md) | [main.cpp](falling-concrete/main.cpp) | [Codeforces 2266D](https://codeforces.com/contest/2266/problem/D) |
 | Prime Destruction | `prime-destruction/` | [problem.md](prime-destruction/problem.md) | [solution.md](prime-destruction/solution.md) | [main.cpp](prime-destruction/main.cpp) | Codeforces E |
 | Equal Shopping | `equal-shopping/` | [problem.md](equal-shopping/problem.md) | [solution.md](equal-shopping/solution.md) | [main.cpp](equal-shopping/main.cpp) | [AtCoder WDC 0163 Beta](https://atcoder.jp/contests/awc0163/tasks/awc0163_d) |
+| 飞行路线（Flight Route） | `flight-route/` | [problem.md](flight-route/problem.md) | [solution.md](flight-route/solution.md) | [main.cpp](flight-route/main.cpp) | [洛谷 P4568](https://www.luogu.com.cn/problem/P4568) |
 
 ### L3 · 困难
 

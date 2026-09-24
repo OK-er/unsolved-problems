@@ -1,4 +1,4 @@
-# unsolved-problems · 未解之题
+﻿# unsolved-problems · 未解之题
 
 算法竞赛题解仓库。
 
@@ -13,13 +13,34 @@
 
 部分题目的目录中额外附有 `learning-path.md`——以该题为最终目标、断点可验证的梯度学习路径规划书。
 
-## 题目列表
+## 难度分层
+
+仓库按难度将题目分为三个层次，便于按水平自取：
+
+- **L1 · 基础**：思路直观，一两个循环 + 简单观察即可解决，适合作为入门训练；
+- **L2 · 提高**：需要建模或 DP/筛法等常规技巧，是竞赛中档题的典型构成；
+- **L3 · 困难**：多个知识点复合（组合恒等式 + 数论 + 递推），需系统学习前置知识才能攻克。
+
+### L1 · 基础
 
 | 题目 | 目录 | 题面 | 题解 | AC 代码 | 来源 |
 |---|---|---|---|---|---|
 | 新鲜子数组（Fresh Subarrays） | `fresh-subarrays/` | [problem.md](fresh-subarrays/problem.md) | [solution.md](fresh-subarrays/solution.md) | [main.cpp](fresh-subarrays/main.cpp) | [牛客周赛 Round 162](https://ac.nowcoder.com/acm/contest/140489) |
+| Kaky 撞障碍物（Kaky Obstacles） | `kaky-obstacles/` | [problem.md](kaky-obstacles/problem.md) | [solution.md](kaky-obstacles/solution.md) | [main.cpp](kaky-obstacles/main.cpp) | 题面截图（来源未显示） |
+
+### L2 · 提高
+
+| 题目 | 目录 | 题面 | 题解 | AC 代码 | 来源 |
+|---|---|---|---|---|---|
 | 删除连通点集（Delete Connected Set） | `delete-to-monochrome/` | [problem.md](delete-to-monochrome/problem.md) | [solution.md](delete-to-monochrome/solution.md) | [main.cpp](delete-to-monochrome/main.cpp) | [牛客周赛 Round 162](https://ac.nowcoder.com/acm/contest/140489) |
 | Falling Concrete | `falling-concrete/` | [problem.md](falling-concrete/problem.md) | [solution.md](falling-concrete/solution.md) | [main.cpp](falling-concrete/main.cpp) | [Codeforces 2266D](https://codeforces.com/contest/2266/problem/D) |
-| Start to the End | `start-to-the-end/` | [problem.md](start-to-the-end/problem.md) | [solution.md](start-to-the-end/solution.md) | [main.cpp](start-to-the-end/main.cpp) | [2026 牛客多校 Day 9](https://ac.nowcoder.com/) |
 | Prime Destruction | `prime-destruction/` | [problem.md](prime-destruction/problem.md) | [solution.md](prime-destruction/solution.md) | [main.cpp](prime-destruction/main.cpp) | Codeforces E |
 | Equal Shopping | `equal-shopping/` | [problem.md](equal-shopping/problem.md) | [solution.md](equal-shopping/solution.md) | [main.cpp](equal-shopping/main.cpp) | [AtCoder WDC 0163 Beta](https://atcoder.jp/contests/awc0163/tasks/awc0163_d) |
+
+### L3 · 困难
+
+| 题目 | 目录 | 题面 | 题解 | AC 代码 | 来源 |
+|---|---|---|---|---|---|
+| Start to the End | `start-to-the-end/` | [problem.md](start-to-the-end/problem.md) | [solution.md](start-to-the-end/solution.md) | [main.cpp](start-to-the-end/main.cpp) | [2026 牛客多校 Day 9](https://ac.nowcoder.com/) |
+
+> `start-to-the-end/` 目录额外含 `learning-path.md`——以该题为最终目标、断点可验证的梯度学习路径规划书。

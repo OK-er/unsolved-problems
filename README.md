@@ -45,3 +45,10 @@
 | Start to the End | `start-to-the-end/` | [problem.md](start-to-the-end/problem.md) | [solution.md](start-to-the-end/solution.md) | [main.cpp](start-to-the-end/main.cpp) | [2026 牛客多校 Day 9](https://ac.nowcoder.com/) |
 
 > `start-to-the-end/` 目录额外含 `learning-path.md`——以该题为最终目标、断点可验证的梯度学习路径规划书。
+
+## 工具 · 对拍技巧
+
+| 内容 | 路径 | 说明 |
+|---|---|---|
+| Python 对拍能力与技巧总结 | [`python-contraposition/README.md`](python-contraposition/README.md) | 框架、生成器设计、交互、调试流程、实战案例 |
+| 可复用对拍模板 | [`python-contraposition/checker_template.py`](python-contraposition/checker_template.py) | 生成器 + 暴力 + subprocess 调 C++ + 批量比对，改两处即可用 |

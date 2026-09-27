@@ -38,6 +38,7 @@
 | Equal Shopping | `equal-shopping/` | [problem.md](equal-shopping/problem.md) | [solution.md](equal-shopping/solution.md) | [main.cpp](equal-shopping/main.cpp) | [AtCoder WDC 0163 Beta](https://atcoder.jp/contests/awc0163/tasks/awc0163_d) |
 | 飞行路线（Flight Route） | `flight-route/` | [problem.md](flight-route/problem.md) | [solution.md](flight-route/solution.md) | [main.cpp](flight-route/main.cpp) | [洛谷 P4568](https://www.luogu.com.cn/problem/P4568) |
 | Backrooms Hill | `backrooms-hill/` | [problem.md](backrooms-hill/problem.md) | [solution.md](backrooms-hill/solution.md) | [main.cpp](backrooms-hill/main.cpp) | [Codeforces 2267D](https://codeforces.com/contest/2267/problem/D) |
+| Clean Substrings | `clean-substrings/` | [problem.md](clean-substrings/problem.md) | [solution.md](clean-substrings/solution.md) | [main.cpp](clean-substrings/main.cpp) | [Codeforces 2267E](https://codeforces.com/contest/2267/problem/E) |
 
 ### L3 · 困难
 

@@ -39,6 +39,7 @@
 | 飞行路线（Flight Route） | `flight-route/` | [problem.md](flight-route/problem.md) | [solution.md](flight-route/solution.md) | [main.cpp](flight-route/main.cpp) | [洛谷 P4568](https://www.luogu.com.cn/problem/P4568) |
 | Backrooms Hill | `backrooms-hill/` | [problem.md](backrooms-hill/problem.md) | [solution.md](backrooms-hill/solution.md) | [main.cpp](backrooms-hill/main.cpp) | [Codeforces 2267D](https://codeforces.com/contest/2267/problem/D) |
 | Clean Substrings | `clean-substrings/` | [problem.md](clean-substrings/problem.md) | [solution.md](clean-substrings/solution.md) | [main.cpp](clean-substrings/main.cpp) | [Codeforces 2267E](https://codeforces.com/contest/2267/problem/E) |
+| MEX Replacement | `mex-replacement/` | [problem.md](mex-replacement/problem.md) | [solution.md](mex-replacement/solution.md) | [main.cpp](mex-replacement/main.cpp) | [Codeforces 2266F](https://codeforces.com/contest/2266/problem/F) |
 
 ### L3 · 困难
 

@@ -42,6 +42,7 @@
 | MEX Replacement | `mex-replacement/` | [problem.md](mex-replacement/problem.md) | [solution.md](mex-replacement/solution.md) | [main.cpp](mex-replacement/main.cpp) | [Codeforces 2266F](https://codeforces.com/contest/2266/problem/F) |
 | 凸包（Convex Hull） | `convex-hull/` | [problem.md](convex-hull/problem.md) | [solution.md](convex-hull/solution.md) | [main.cpp](convex-hull/main.cpp) | [洛谷 P17518](https://www.luogu.com.cn/problem/P17518) |
 | 天外来物（Sky Object） | `sky-object/` | [problem.md](sky-object/problem.md) | [solution.md](sky-object/solution.md) | [main.cpp](sky-object/main.cpp) | [洛谷 P17521](https://www.luogu.com.cn/problem/P17521) |
+| 净化行动 3（Purification 3） | `purification/` | [problem.md](purification/problem.md) | [solution.md](purification/solution.md) | [main.cpp](purification/main.cpp) | [洛谷 P17524](https://www.luogu.com.cn/problem/P17524) |
 
 ### L3 · 困难
 

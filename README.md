@@ -41,6 +41,7 @@
 | Clean Substrings | `clean-substrings/` | [problem.md](clean-substrings/problem.md) | [solution.md](clean-substrings/solution.md) | [main.cpp](clean-substrings/main.cpp) | [Codeforces 2267E](https://codeforces.com/contest/2267/problem/E) |
 | MEX Replacement | `mex-replacement/` | [problem.md](mex-replacement/problem.md) | [solution.md](mex-replacement/solution.md) | [main.cpp](mex-replacement/main.cpp) | [Codeforces 2266F](https://codeforces.com/contest/2266/problem/F) |
 | 凸包（Convex Hull） | `convex-hull/` | [problem.md](convex-hull/problem.md) | [solution.md](convex-hull/solution.md) | [main.cpp](convex-hull/main.cpp) | [洛谷 P17518](https://www.luogu.com.cn/problem/P17518) |
+| 天外来物（Sky Object） | `sky-object/` | [problem.md](sky-object/problem.md) | [solution.md](sky-object/solution.md) | [main.cpp](sky-object/main.cpp) | [洛谷 P17521](https://www.luogu.com.cn/problem/P17521) |
 
 ### L3 · 困难
 

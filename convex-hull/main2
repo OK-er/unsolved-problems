@@ -1,0 +1,19 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int t;cin>>t;
+    while(t--){
+        int n;cin>>n;
+        double l=-1e9,r=1e9;//inf
+        while(n--){
+            long long a,b,c;cin>>a>>b>>c;
+            if(b*b-4*a*c<=0)l=1e9,r=-1e9;//必定无解
+            else l=max(l,(-b+sqrt(b*b-4*a*c))/(2*a)),
+                 r=min(r,(-b-sqrt(b*b-4*a*c))/(2*a));
+        }
+        l+=1e-12,r-=1e-12;//开区间
+        if(floor(r)-floor(l)<=0)cout<<"NO\n";
+        else cout<<"YES\n";
+    }
+    return 0;
+}

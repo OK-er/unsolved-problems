@@ -51,6 +51,7 @@
 | Start to the End | `start-to-the-end/` | [problem.md](start-to-the-end/problem.md) | [solution.md](start-to-the-end/solution.md) | [main.cpp](start-to-the-end/main.cpp) | [2026 牛客多校 Day 9](https://ac.nowcoder.com/) |
 | Brackets | `brackets/` | [problem.md](brackets/problem.md) | [solution.md](brackets/solution.md) | [main.cpp](brackets/main.cpp) | [2026 牛客暑期多校训练营10](https://ac.nowcoder.com/acm/contest/133885) |
 | Modular Tree | `modular-tree/` | [problem.md](modular-tree/problem.md) | [solution.md](modular-tree/solution.md) | [main.cpp](modular-tree/main.cpp) | [Codeforces 2266G](https://codeforces.com/contest/2266/problem/G) |
+| 根除（Eradicate） | `eradicate/` | [problem.md](eradicate/problem.md) | [solution.md](eradicate/solution.md) | [main.cpp](eradicate/main.cpp) | [洛谷 P17517](https://www.luogu.com.cn/problem/P17517) |
 
 > `start-to-the-end/` 目录额外含 `learning-path.md`——以该题为最终目标、断点可验证的梯度学习路径规划书。
 

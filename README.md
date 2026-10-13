@@ -27,6 +27,7 @@
 |---|---|---|---|---|---|
 | 新鲜子数组（Fresh Subarrays） | `fresh-subarrays/` | [problem.md](fresh-subarrays/problem.md) | [solution.md](fresh-subarrays/solution.md) | [main.cpp](fresh-subarrays/main.cpp) | [牛客周赛 Round 162](https://ac.nowcoder.com/acm/contest/140489) |
 | Kaky 撞障碍物（Kaky Obstacles） | `kaky-obstacles/` | [problem.md](kaky-obstacles/problem.md) | [solution.md](kaky-obstacles/solution.md) | [main.cpp](kaky-obstacles/main.cpp) | 题面截图（来源未显示） |
+| All-Meat（Sausage Meat） | `sausage-meat/` | [problem.md](sausage-meat/problem.md) | [solution.md](sausage-meat/solution.md) | [main.cpp](sausage-meat/main.cpp) | [Codeforces 2269D](https://codeforces.com/contest/2269/problem/D) |
 
 ### L2 · 提高
 

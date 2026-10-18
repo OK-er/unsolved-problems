@@ -3,8 +3,8 @@
 // 游戏：两人轮流删元素，合法操作 = 删一个元素，或删一组和为偶数的元素。
 // 不能动者输。判断先手 Moggity 胜还是后手 Larpity 胜。
 //
-// SG 推导：必败态 (o,e) 只有 (0,0)、(1,1)、(3,0)、(0,3)，其余全是先手胜。
-// 代码：数奇数个数 o、偶数个数 e，判断是否属于上述三个非空必败态。
+// SG 推导：必败态 (o,e) 只有 (0,0)、(1,1)、(3,0)，其余全是先手胜。
+// 注意：(0,3) 不是必败态！三个偶数全删和为偶，直接到 (0,0)。
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -23,9 +23,8 @@ int main() {
             if (x & 1) odd++;
             else even++;
         }
-        bool lose = (odd == 1 && even == 1) ||
-                    (odd == 3 && even == 0) ||
-                    (odd == 0 && even == 3);
+        // 必败态：(1,1) 或 (3,0)
+        bool lose = (odd == 1 && even == 1) || (odd == 3 && even == 0);
         cout << (lose ? "Larpity" : "Moggity") << '\n';
     }
     return 0;

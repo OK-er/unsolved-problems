@@ -56,7 +56,7 @@
 | Modular Tree | `modular-tree/` | [problem.md](modular-tree/problem.md) | [solution.md](modular-tree/solution.md) | [main.cpp](modular-tree/main.cpp) | [Codeforces 2266G](https://codeforces.com/contest/2266/problem/G) |
 | 根除（Eradicate） | `eradicate/` | [problem.md](eradicate/problem.md) | [solution.md](eradicate/solution.md) | [main.cpp](eradicate/main.cpp) | [洛谷 P17517](https://www.luogu.com.cn/problem/P17517) |
 | Energy Intervals | `energy-intervals/` | [problem.md](energy-intervals/problem.md) | [solution.md](energy-intervals/solution.md) | [main.cpp](energy-intervals/main.cpp) | [Codeforces 2269E](https://codeforces.com/contest/2269/problem/E) |
-| Come Be My Friend (D2) | `come-be-my-friend/` | [problem.md](come-be-my-friend/problem.md) | [solution.md](come-be-my-friend/solution.md) | 待补 | [Codeforces 2261D2](https://codeforces.com/contest/2261/problem/D2) |
+| Come Be My Friend (D2) | `come-be-my-friend/` | [problem.md](come-be-my-friend/problem.md) | [solution.md](come-be-my-friend/solution.md) | [main.cpp](come-be-my-friend/main.cpp) | [Codeforces 2261D2](https://codeforces.com/contest/2261/problem/D2) |
 
 > `start-to-the-end/` 目录额外含 `learning-path.md`——以该题为最终目标、断点可验证的梯度学习路径规划书。
 

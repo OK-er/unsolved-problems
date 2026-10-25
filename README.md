@@ -29,6 +29,7 @@
 | Kaky 撞障碍物（Kaky Obstacles） | `kaky-obstacles/` | [problem.md](kaky-obstacles/problem.md) | [solution.md](kaky-obstacles/solution.md) | [main.cpp](kaky-obstacles/main.cpp) | 题面截图（来源未显示） |
 | All-Meat（Sausage Meat） | `sausage-meat/` | [problem.md](sausage-meat/problem.md) | [solution.md](sausage-meat/solution.md) | [main.cpp](sausage-meat/main.cpp) | [Codeforces 2269D](https://codeforces.com/contest/2269/problem/D) |
 | Million Things | `million-things/` | [problem.md](million-things/problem.md) | [solution.md](million-things/solution.md) | [main.cpp](million-things/main.cpp) | [Codeforces 2261C](https://codeforces.com/contest/2261/problem/C) |
+| 丰富排列构造（Construct Permutation） | `construct-permutation/` | [problem.md](construct-permutation/problem.md) | [solution.md](construct-permutation/solution.md) | [main.cpp](construct-permutation/main.cpp) | [洛谷 P3599 Task1](https://www.luogu.com.cn/problem/P3599) |
 
 ### L2 · 提高
 
